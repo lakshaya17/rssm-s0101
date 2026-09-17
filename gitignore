@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# Downloaded data (auto-fetched on first run)
+data/
+
+# Pretrained checkpoint (auto-fetched on first run, ~30MB)
+checkpoints/rssm_so101.pt
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
