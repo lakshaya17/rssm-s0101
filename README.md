@@ -1,7 +1,7 @@
 # Dreams That Last -- RSSM on SO-101
 
 Local, modular version of the companion notebook for **Lecture 4** of
-*Build a World Model from Scratch* (Vizuara AI / Rajat Dandekar).
+*Build a World Model from Scratch* by Rajat Dandekar.
 
 Trains a Recurrent State-Space Model (RSSM) on 12 episodes of
 tele-operated pick-and-place data from an SO-101 arm, then dreams
@@ -621,7 +621,7 @@ the first. Only H=256 can do both.
 ## Credits
 
 This project is based on the companion notebook for Lecture 4 of
-[Build a World Model from Scratch](https://www.youtube.com/@VizuaraAI)
+[Build a World Model from Scratch]([https://www.youtube.com/@VizuaraAI](https://www.youtube.com/watch?v=gNwczJjm-8o))
 by **Rajat Dandekar** (Vizuara AI). The original dataset, model
 architecture, training logic, and evaluation suite are his work.
 
