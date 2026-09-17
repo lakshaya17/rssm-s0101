@@ -1,4 +1,4 @@
-# Dreams That Last --> RSSM on SO-101
+# Dreams That Last ft. RSSM on SO-101
 
 Local, modular version of the companion notebook for **Lecture 4** of
 *Build a World Model from Scratch* by Rajat Dandekar.
